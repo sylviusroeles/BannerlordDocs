@@ -3,8 +3,8 @@
 ## Parent Node
 - [ItemComponent](../../ItemComponent)
 
-## Child Nodes
-- *To be added*
+## Child Node
+- [Materials](Materials)
 
 ## Attributes
 [monster](#monster) | [maneuver](#maneuver) | [speed](#speed) | [charge_damage](#charge_damage) | [body_length](#body_length) | [is_mountable](#is_mountable) | [extra_health](#extra_health) | [skeleton_scale](#skeleton_scale) | [modifier_group](#modifier_group) | [is_pack_animal](#is_pack_animal) | [decorator_key_min](#decorator_key_min) | [decorator_key_max](#decorator_key_max) | [mane_mesh](#mane_mesh)
