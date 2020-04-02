@@ -756,7 +756,7 @@ The ItemComponent Entry takes no attributes, instead it has a xml child
   *Mesh ID of the manes*  
   
 ### Food
-**attributes: **  
+**attributes:**  
 [morale_bonus](#morale_bonus)
 
 - #### morale_bonus  
