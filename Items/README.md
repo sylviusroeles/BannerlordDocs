@@ -3,7 +3,6 @@ This file will explain the stucture of the items with possible key value pairs.
 
 ## Table of Contents
 - [The Item Structure of Bannerlord](#the-item-structure-of-bannerlord)
-  * [Example Entry](#example-entry)
   * [Item](Item)
     + [Flags](Item/Flags)
     + [ItemComponent](Item/ItemComponent)
